@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+.mensagem{
+    margin:50px auto auto auto;
+    text-align:center;
+    background-color:lightblue;
+    width:400px;
+    color: white;
+    padding:20px;
+    border:solid 1px #075eb0;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:15pt;
+}
+.red{
+    font-size:8pt;  
+    color:red;
+    padding:0px;
+}
+

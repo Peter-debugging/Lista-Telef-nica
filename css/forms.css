@@ -1,0 +1,25 @@
+form{
+    margin:auto;
+    width:600px;
+    font-size:20px;
+    background-color:white;
+    box-shadow:0px 0px 5px gray;
+}
+form input.botaonav{
+    float:right;
+}
+td input{
+    font-size: 18px;
+    border-left:none;
+    border-right:none;
+    border-top:none;
+    border-bottom-color: gray;
+    outline:none;
+    
+}
+td input:hover, td input:active{
+    border-bottom-color: darkgray;
+}
+td{
+    padding:10px;
+}

@@ -1,0 +1,29 @@
+table{
+    margin:auto;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:15pt;
+    border-collapse:collapse;
+    min-width:600px;
+    text-align:center;
+    box-shadow:0px 0px 4px darkgray;
+}
+td, th{
+    padding:5px;
+    
+}
+
+tbody tr:hover{
+    background-color: #bfdbf6
+}
+thead{
+    background-color:darkgray;
+}
+.top-left{
+    border-top-right-radius:4px;
+}
+.top-right{
+    border-top-left-radius:4px;
+}
+tbody{
+    background-color:white;
+}
